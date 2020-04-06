@@ -1,0 +1,41 @@
+{
+    "Result": "OK",
+    "TotalRecordCount": 20,
+    "page": 1,
+    "Records": [
+        {
+            "id": 32,
+            "names": "MARICIEL",
+            "name_entity": "CORAL  MARICIEL",
+            "legal_address": "JIRON LOS ANDES # - PELUQUERIA INTIMAS",
+            "paternal_surname": "CORAL",
+            "maternal_surname": null,
+            "type_person_id": 1,
+            "document_type_identity_id": 2,
+            "document": "00000003",
+            "social_reason": "",
+            "is_client": true,
+            "contact": "",
+            "contact_phone": "",
+            "contact_email": "",
+            "is_provider": false
+        },
+        {
+            "id": 33,
+            "names": "JHONATAN. cristofer",
+            "name_entity": "RAMIREZ DEL AGUILA JHONATAN. cristofer",
+            "legal_address": "JIRON MANCO INCA # 452",
+            "paternal_surname": "RAMIREZ",
+            "maternal_surname": "DEL AGUILA",
+            "type_person_id": 1,
+            "document_type_identity_id": 2,
+            "document": "71690017",
+            "social_reason": "",
+            "is_client": true,
+            "contact": "",
+            "contact_phone": "",
+            "contact_email": "",
+            "is_provider": false
+        }
+    ]
+}

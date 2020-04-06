@@ -1,0 +1,2 @@
+1) entity.sql: Crear la tabla entidad en postgrsql
+2) entity.json: Es el modelo respuesta del servidor en formato json
